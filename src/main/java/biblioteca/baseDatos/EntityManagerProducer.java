@@ -1,4 +1,4 @@
-package bibiloteca.baseDatos;
+package biblioteca.baseDatos;
 
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.Persistence;
